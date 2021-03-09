@@ -124,11 +124,11 @@ tolLimits <- function(n){
 }
 
 #insert sample size to get the ris corresponding to TLs
-tolLimits(n=341)
+tolLimits(n="x")
 
 #insert the sample size and the oTL to get the last Equivalent Scores (ESs); rounding controls are also provided
 n <- "x"
-oTL <- "x"
+oTL <- "y"
 cd1 <- oTL/n
 z1 <- qnorm(cd1)
 
