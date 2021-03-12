@@ -1,6 +1,6 @@
 #general note: the following script takes into account sex, age and education as possible predictors,
-#as well as a selected range of transformations for age and education. Other predictors and transformations
-#can be taken into account: practitioners will thus make their choice and modify the script
+#as well as a selected range of transformations and correction factors for age and education. Other predictors, transformations
+#and correction factors can be taken into account: practitioners will thus make their choice and modify the script
 #as they whish. 
 
 #load the dataset
